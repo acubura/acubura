@@ -36,7 +36,7 @@ This is my main project right now. It's a console-based Python tutor that actual
 
 ## Let's Connect 📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
 [![GitHub](https://img.shields.io/badge/GitHub-acubura-black)](https://github.com/acubura)
 
 📧 acuburagamer100@gmail.com
