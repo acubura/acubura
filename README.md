@@ -37,6 +37,7 @@ This is my main project right now. It's a console-based Python tutor that actual
 ## Let's Connect 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
-[![GitHub](https://img.shields.io/badge/GitHub-acubura-black)](https://github.com/acubura)
+[![Instagram](https://img.shields.io/badge/Instagram-@acubura-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/acubura/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-acubura-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/acubura)
 
 📧 acuburagamer100@gmail.com
