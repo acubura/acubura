@@ -2,7 +2,7 @@
 
 **Digital Creator** · **Game Design Analyst** · **IT Student**
 
-I build things that teach and tools that analyze. Right now, that means a Python tutor that actually talks like a human, and I am also digging into Minecraft systems to see how it work.
+I build things that teach and tools that analyze. Right now, that means a Python tutor that actually talks like a human, and I am also digging into Minecraft systems to see how it works.
 
 ---
 
