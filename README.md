@@ -59,7 +59,6 @@ Strategic prompt-based investigation to identify an unannounced frontier AI mode
 ## Let's Connect 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
-[![GitHub](https://img.shields.io/badge/GitHub-acubura-181717?logo=github&logoColor=white)](https://github.com/acubura)
 [![Instagram](https://img.shields.io/badge/Instagram-@acubura-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/acubura/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-acubura-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/acubura)
 
