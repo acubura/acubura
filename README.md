@@ -10,7 +10,7 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 
 ## What I Do 🛠️
 
-- **🐍 Python Development** → Creator of Python Learning Assistant — an interactive console tutor with 40+ commits and 2,196 lines of code. Built to teach, not just execute.
+- **🐍 Python Development** → Creator of Python Learning Assistant — an interactive console tutor that teaches beginners through conversation. Built to teach, not just execute.
 - **🤖 AI Prompt Strategy** → Multi-model orchestration for technical research. Identified Xiaomi's MiMo-V2-Pro 24 hours before official announcement through strategic AI interaction.
 - **🎮 Game Systems Analysis** → Deep analysis of Minecraft mechanics, balance systems, and player behavior. I study how complex systems interact.
 - **📝 Technical Content** → I create content about AI, game design, and IT — turning complex topics into clear, actionable insights.
@@ -22,11 +22,10 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
 **What's inside:**
-- 12 comprehensive Python topics (Hello World → Conditional Statements)
-- Full Strings module (indexing, slicing, methods, formatting, f-strings)
-- Smart input validation — understands natural responses like "yeah teach me" or "nah I'm good"
-- Real-life analogies + optional examples + interactive practice for every topic
-- 40+ commits | v1.0.3 | 2,196 lines of code
+- Core Python topics taught through real-life analogies and conversation
+- Smart input validation — understands natural responses
+- Complete String Module
+- Open source with regular updates
 
 🔗 **[View Project →](https://github.com/acubura/python-learning-assistant)**
 
@@ -34,9 +33,9 @@ An interactive, beginner-friendly console program designed to teach Python funda
 
 ## Featured Research: Hunter Alpha Investigation 🔍
 
-Strategic prompt-based investigation to identify an unannounced frontier AI model on OpenRouter. Used multi-model orchestration (DeepSeek for analysis, Claude for synthesis) to extract technical specifications and origin details. Published findings 24 hours before Xiaomi's official announcement confirming the model as MiMo-V2-Pro.
+Strategic prompt-based investigation to identify an unannounced frontier AI model on OpenRouter. Used multi-model orchestration to extract technical specifications and origin details. Published findings 24 hours before Xiaomi's official announcement.
 
-**Skills demonstrated:** Prompt Engineering · AI Workflow Design · Technical Research · AI Content Strategy
+**Skills demonstrated:** Prompt Engineering · AI Workflow Design · Technical Research
 
 ---
 
