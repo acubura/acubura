@@ -12,7 +12,7 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 
 - **🐍 Python Development** → Creator of Python Learning Assistant — an interactive console tutor that teaches beginners through conversation. Built to teach, not just execute.
 - **🤖 AI Prompt Strategy** → Multi-model orchestration for technical research. Identified Xiaomi's MiMo-V2-Pro 24 hours before official announcement through strategic AI interaction.
-- **🎮 Game Systems Analysis** → Deep analysis of Minecraft mechanics, balance systems, and player behavior. I study how complex systems interact.
+- **🎮 Game Systems Analysis** → Deep analysis of game mechanics, balance systems, and player behavior. I study how complex systems interact.
 - **📝 Technical Content** → I create content about AI, game design, and IT — turning complex topics into clear, actionable insights.
 
 ---
@@ -22,9 +22,9 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
 **What's inside:**
-- Core Python topics taught through real-life analogies and conversation
-- Smart input validation — understands natural responses
-- Complete String Module
+- Core Python topics taught through real-life analogies
+- Smart input validation that understands natural responses
+- Complete String Module (indexing, slicing, methods, formatting)
 - Open source with regular updates
 
 🔗 **[View Project →](https://github.com/acubura/python-learning-assistant)**
@@ -33,7 +33,7 @@ An interactive, beginner-friendly console program designed to teach Python funda
 
 ## Featured Research: Hunter Alpha Investigation 🔍
 
-Strategic prompt-based investigation to identify an unannounced frontier AI model on OpenRouter. Used multi-model orchestration to extract technical specifications and origin details. Published findings 24 hours before Xiaomi's official announcement.
+Strategic prompt-based investigation to identify an unannounced frontier AI model. Used multi-model orchestration to extract technical specifications and origin details. Published findings 24 hours before official announcement.
 
 **Skills demonstrated:** Prompt Engineering · AI Workflow Design · Technical Research
 
@@ -41,7 +41,7 @@ Strategic prompt-based investigation to identify an unannounced frontier AI mode
 
 ## Tech Stack ⚙️
 
-🐍 Python · Prompt Engineering · AI Workflow Design · Git · GitHub · VS Code · Technical Writing
+🐍 Python · Prompt Engineering · AI Workflow Design · VS Code · Technical Writing
 
 ---
 
