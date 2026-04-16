@@ -21,19 +21,28 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
+**Project Stats:**
+- **48 commits** and counting
+- **Open Source** — MIT Licensed
+- 12 comprehensive Python topics
+- Smart input validation with natural language understanding
+- Complete Strings & Conditional Statements modules
+- Practice sections for every topic
+
 **What's inside:**
 - Core Python topics taught through real-life analogies
 - Smart input validation that understands natural responses
 - Complete String Module (indexing, slicing, methods, formatting)
+- Complete Conditional Module (if, elif, else, nested conditionals, logical operators)
 - Open source with regular updates
 
-🔗 **[View Project →](https://github.com/acubura/python-learning-assistant)**
+🔗 **[View Project on GitHub →](https://github.com/acubura/python-learning-assistant)**
 
 ---
 
 ## Featured Research: Hunter Alpha Investigation 🔍
 
-Strategic prompt-based investigation to identify an unannounced frontier AI model. Used multi-model orchestration to extract technical specifications and origin details. Published findings 24 hours before official announcement.
+Strategic prompt-based investigation to identify an unannounced frontier AI model. Used multi-model orchestration to extract technical specifications and origin details. I identified Xiaomi's MiMo-V2-Pro 24hrs before official announcement.
 
 **Skills demonstrated:** Prompt Engineering · AI Workflow Design · Technical Research
 
