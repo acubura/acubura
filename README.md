@@ -4,7 +4,7 @@
 
 I build, analyze, and create at the intersection of Python development, AI strategy, and game systems research.
 
-I don't just use AI — I orchestrate it. My workflow involves using multiple AI models strategically for research, analysis, and content — while staying in the director's seat myself.
+I don't just use AI — I orchestrate it. My workflow involves using multiple AI models strategically for research, analysis, and content — while staying in the director's seat myself. Every line of code I write is my own.
 
 ---
 
