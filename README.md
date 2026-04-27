@@ -10,14 +10,14 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 
 ## What I Do 🛠️
 
-- **🐍 Python Development** → Creator of Python Learning Assistant — an interactive console tutor that teaches beginners through conversation. Built to teach, not just execute.
+- **🐍 Python Development** → Creator of Koda — an interactive console tutor that teaches beginners through conversation. Built to teach, not just execute.
 - **🤖 AI Prompt Strategy** → Multi-model orchestration for technical research. Identified Xiaomi's MiMo-V2-Pro 24 hours before official announcement through strategic AI interaction.
 - **🎮 Game Systems Analysis** → Deep analysis of game mechanics, balance systems, and player behavior. I study how complex systems interact.
 - **📝 Technical Content** → I create content about AI, game design, and IT — turning complex topics into clear, actionable insights.
 
 ---
 
-## Featured Project: Python Learning Assistant 🐍
+## Featured Project: Koda 🐍
 
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
@@ -36,7 +36,7 @@ An interactive, beginner-friendly console program designed to teach Python funda
 - Complete Conditional Module (if, elif, else, nested conditionals, logical operators)
 - Open source with regular updates
 
-🔗 **[View Project on GitHub →](https://github.com/acubura/python-learning-assistant)**
+🔗 **[View Project on GitHub →](https://github.com/acubura/koda-assistant)**
 
 ---
 
