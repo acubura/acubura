@@ -22,18 +22,23 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
 **Project Stats:**
-- **135 commits** and counting
+- **140 commits** and counting
 - **Open Source** — MIT Licensed
-- 12 comprehensive Python topics
+- 13 comprehensive Python topics
 - Smart input validation with natural language understanding
-- Complete Strings & Conditional Statements modules
+- Complete Strings, Conditional Statements & Lists modules
 - Practice sections for every topic
+- Natural Conversational Learning
+- Temporary Memory Session
 
 **What's inside:**
 - Core Python topics taught through real-life analogies
-- Smart input validation that understands natural responses
+- Smart input validation that understands natural responses & detect it
+- Conversational learning that makes Pytalon to understand the user
+- Temporary Memory Sessions that tracks user progress etc during the Assistant is running
 - Complete String Module (indexing, slicing, methods, formatting)
 - Complete Conditional Module (if, elif, else, nested conditionals, logical operators)
+- Complete list Module (indexing, slicing, operations, methods, common errors)
 - Open source with regular updates
 
 🔗 **[View Project on GitHub →](https://github.com/acubura/pytalon-assistant)**
