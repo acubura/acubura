@@ -22,7 +22,7 @@ I don't just use AI — I orchestrate it. My workflow involves using multiple AI
 An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
 
 **Project Stats:**
-- **140 commits** and counting
+- **161 commits** and counting
 - **Open Source** — MIT Licensed
 - 13 comprehensive Python topics
 - Smart input validation with natural language understanding
