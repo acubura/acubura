@@ -1,79 +1,88 @@
-# Hey, I'm M. Qasim Farooqi 👋
+# M. Qasim Farooqi 🧑🏻‍💻
 
-**BS IT Student | Python Developer · AI Prompt Strategist · Game Systems Analyst**
+**BS IT Student · Python Developer · AI Prompt Strategist · Game Systems Analyst**
 
-I build, analyze, and create at the intersection of Python development, AI strategy, and game systems research.
-
-I don't just use AI — I orchestrate it. My workflow involves using multiple AI models strategically for research, analysis, and content — while staying in the director's seat myself. Every line of code I write is my own.
+I build at the intersection of Python development, AI strategy, and systems analysis. Every line of code is mine — AI is my research & supervisor partner to direct other AI Agents & LLM Models. 
 
 ---
 
-## What I Do 🛠️
+## What I Build 🛠️
 
-- **🐍 Python Development** → Creator of Pytalon — an interactive console tutor that teaches beginners through conversation. Built to teach, not just execute.
-- **🤖 AI Prompt Strategy** → Multi-model orchestration for technical research. Identified Xiaomi's MiMo-V2-Pro 24 hours before official announcement through strategic AI interaction.
-- **🎮 Game Systems Analysis** → Deep analysis of game mechanics, balance systems, and player behavior. I study how complex systems interact.
-- **📝 Technical Content** → I create content about AI, game design, and IT — turning complex topics into clear, actionable insights.
+**Pytalon** — Interactive Python Tutor
 
----
+- An interactive Python tutor assistant that teaches core programming concepts through hands-on practice
+- Built to be fully customizable like a plugin, it adapts to your learning style and pace — giving you a flexible, personal guide for mastering Python from the ground up
 
-## Featured Project: Pytalon 🐍
+- **182 commits** · MIT Licensed · [View on GitHub →](https://github.com/Vexqyn/pytalon-assistant)
 
-An interactive, beginner-friendly console program designed to teach Python fundamentals through conversation — not textbooks.
-
-**Project Stats:**
-- **180 commits** and counting
-- **Open Source** — MIT Licensed
-- 13 comprehensive Python topics
-- Smart input validation with natural language understanding
-- Complete Strings, Conditional Statements & Lists modules
-- Practice sections for every topic
-- Natural Conversational Learning
-- Temporary Memory Session
-
-**What's inside:**
-- Core Python topics taught through real-life analogies
-- Smart input validation that understands natural responses & detect it
-- Conversational learning that makes Pytalon to understand the user
-- Temporary Memory Sessions that tracks user progress etc during the Assistant is running
-- Complete String Module (indexing, slicing, methods, formatting)
-- Complete Conditional Module (if, elif, else, nested conditionals, logical operators)
-- Complete list Module (indexing, slicing, operations, methods, common errors)
-- Open source with regular updates
-
-🔗 **[View Project on GitHub →](https://github.com/acubura/pytalon-assistant)**
+- ✓ 13 comprehensive topics with complete modules (Strings, Conditionals, Lists)
+- ✓ Natural language understanding + smart input validation
+- ✓ Conversational learning with session-based progress tracking
+- ✓ Deployed, tested, and actively maintained
 
 ---
 
-## Featured Research: Hunter Alpha Investigation 🔍
+## What I Do 🎯
 
-Strategic prompt-based investigation to identify an unannounced frontier AI model. Used multi-model orchestration to extract technical specifications and origin details. I identified Xiaomi's MiMo-V2-Pro 24hrs before official announcement.
+**🐍 Python Development**
 
-**Skills demonstrated:** Prompt Engineering · AI Workflow Design · Technical Research
+Write clean, purposeful code. Pytalon teaches beginners programming through conversation — not memorization. Built modular, documented, and designed for real learning.
+
+**🤖 AI Strategy & Orchestration**
+
+I don't just prompt — I orchestrate. Multi-model workflows for technical research and analysis. Demonstrated expertise: Identified Xiaomi's MiMo-Models 24 hours before official announcement through strategic prompt engineering and AI workflow design.
+
+**🎮 Game Systems Analysis**
+
+Deep dives into mechanics, balance, and emergent behavior. I study how complex systems interact to produce player experience — applicable to code design, API architecture, and user behavior prediction.
+
+**📝 Technical Content**
+
+Philosophy-first writing. Clear over clever. I share insights about AI, game design, software — just honest analysis. Published across LinkedIn, Bluesky, Dev.to, and Instagram.
 
 ---
 
-## Tech Stack ⚙️
+## Featured Work 📊
 
-🐍 Python · Prompt Engineering · AI Workflow Design · VS Code · Technical Writing
+### Hunter Alpha Investigation
+
+Strategic prompt-based research into frontier AI models. Used multi-model orchestration to extract technical specifications before public announcement.
+
+**Skills:** Prompt Engineering · AI Workflow Design · Technical Research · Model Analysis
+
+### Recent Publications 📰
+
+- **Architectural Convergence Analysis** (July 2, 2026): Analyzed parallel detection + sequential refinement patterns across Pytalon and DSpark independently, published across LinkedIn, Bluesky, Dev.to, and Instagram talking about how open source pollinates ideas 🧠 
+
+- Philosophy-first technical writing with high-intent readership
 
 ---
 
-## What I'm About 🎯
+## Stack & Skills ⚙️
 
-- Building tools that teach — practical, beginner-friendly, human
-- Analyzing systems — games, AI, code — to understand how things work
-- Creating content — sharing insights, not just information
-- Staying in the director's seat — AI is a tool, not the author
+**Core:** Python · Git · VS Code
+
+**Specialties:** Prompt Engineering · AI Workflow Design · Systems Analysis · Technical Writing · Game Design · CLI Applications
+
+---
+
+## Philosophy 🧠
+
+- **Build tools that teach** — not just tools that work
+- **Analyze systems** — games, AI, code — to understand first principles
+- **Stay in the director's seat** — AI amplifies thinking, doesn't replace it
+- **Create clarity** — insight over information
+
+---
+
+## Connect 📫
+
+- **LinkedIn** → [m-qasim-farooqi](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
+- **Bluesky** → [@acubura](https://bsky.app)
+- **Dev.to** → [acubura](https://dev.to/acubura)
+- **Instagram** → [@acubura](https://www.instagram.com/acubura/)
+- **Email** → acuburagamer100@gmail.com
+
+---
 
 **Always building. Always analyzing. Always creating.**
-
----
-
-## Let's Connect 📫
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
-[![Instagram](https://img.shields.io/badge/Instagram-@acubura-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/acubura/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-acubura-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/acubura)
-
-📧 acuburagamer100@gmail.com
