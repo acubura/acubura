@@ -78,7 +78,7 @@ Strategic prompt-based research into frontier AI models. Used multi-model orches
 ## Connect 📫
 
 - **LinkedIn** → [m-qasim-farooqi](https://www.linkedin.com/in/m-qasim-farooqi-9b91b3398/)
-- **Bluesky** → [@acubura](https://bsky.app)
+- **Bluesky** → [@acubura](https://bsky.app/profile/acubura.bsky.social)
 - **Dev.to** → [acubura](https://dev.to/acubura)
 - **Instagram** → [@acubura](https://www.instagram.com/acubura/)
 - **Email** → acuburagamer100@gmail.com
