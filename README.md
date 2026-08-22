@@ -13,12 +13,12 @@ I build at the intersection of Python development, AI strategy, and systems anal
 - An interactive Python tutor assistant that teaches core programming concepts through hands-on practice
 - Built to be fully customizable like a plugin, it adapts to your learning style and pace — giving you a flexible, personal guide for mastering Python from the ground up
 
-- **182 commits** · MIT Licensed · [View on GitHub →](https://github.com/Vexqyn/pytalon-assistant)
-
 - ✓ 13 comprehensive topics with complete modules (Strings, Conditionals, Lists)
 - ✓ Natural language understanding + smart input validation
 - ✓ Conversational learning with session-based progress tracking
 - ✓ Deployed, tested, and actively maintained
+
+- **182 commits** · MIT Licensed · [View on GitHub →](https://github.com/Vexqyn/pytalon-assistant)
 
 ---
 
